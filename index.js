@@ -24,5 +24,3 @@ if ((string) ==="I love you, Grandma.") {
 if ((string) ===lowercase) {
   return "I can't hear you!";
 }
-
-}
